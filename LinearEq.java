@@ -7,8 +7,6 @@ public class LinearEq {
         // calculate x - a*x+b=x
         double x = (c-b)/a;
         // print
-        System.out.println("x = " + x);
-
-        
+        System.out.println("x = " + x);  
     }
 }
